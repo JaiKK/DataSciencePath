@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataScience Path on DataSciencePath</title>
+    <link>https://jaikk.github.io/DataSciencePath/datasciencepath/</link>
+    <description>Recent content in DataScience Path on DataSciencePath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 21:50:52 +1100</lastBuildDate><atom:link href="https://jaikk.github.io/DataSciencePath/datasciencepath/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter-1</title>
+      <link>https://jaikk.github.io/DataSciencePath/datasciencepath/1/</link>
+      <pubDate>Tue, 12 Jan 2021 21:50:52 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/datasciencepath/1/</guid>
+      <description>This is chapter one in details.</description>
+    </item>
+    
+  </channel>
+</rss>
