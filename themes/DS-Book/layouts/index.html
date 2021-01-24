@@ -1,21 +1,42 @@
 {{ define "main" }}
-    <main aria-role="main">
-      <header class="homepage-header">
-        <h1>{{.Title}}</h1>
-        {{ with .Params.subtitle }}
-        <span class="subtitle">{{.}}</span>
-        {{ end }}
-      </header>
-      <div class="homepage-content">
-        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-        {{.Content}}
-        {{ .Date }}
+<main aria-role="main">
+
+  <div class="container">
+
+
+    <div class="homepage-content">
+
+
+      <div class="row">
+        <div class="col-3">
+
+          <div class="list-group">
+            {{ range .Pages }}
+            <a class="list-group-item list-group-item-action" href="{{.Permalink}}">{{.Params.booktitle}}</a>
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="col-9">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+
+
+    <div class="fixed-bottom">
+      <div class="container">
+        This page is updated/geenrated on {{ .Date }} <br />
         This is coming from layout/index.html
       </div>
-      <div>
-        {{ range first 10 .Site.RegularPages }}
-            {{ .Render "summary"}}
-        {{ end }}
-      </div>
-    </main>
+    </div>
+
+  </div>
+
+</main>
 {{ end }}

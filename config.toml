@@ -1,3 +1,4 @@
 baseURL = "https://jaikk.github.io/DataSciencePath/"
 languageCode = "en-us"
 title = "DataSciencePath"
+theme = "DS-Book"
