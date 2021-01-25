@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/1-indexing/</loc>
+    <lastmod>2021-01-11T18:07:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/2-slicing/</loc>
+    <lastmod>2021-01-11T18:07:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/3-merging/</loc>
+    <lastmod>2021-01-11T18:07:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/4-joining/</loc>
+    <lastmod>2021-01-11T18:07:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/</loc>
+    <lastmod>2021-01-26T01:24:23+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/machinelearning/</loc>
+    <lastmod>2021-01-26T01:24:23+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/machinelearning/plan/</loc>
+    <lastmod>2021-01-26T01:24:23+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/6-appending/</loc>
+    <lastmod>2021-01-26T00:04:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/</loc>
+    <lastmod>2021-01-26T00:04:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaikk.github.io/DataSciencePath/pandas/5-concatenating/</loc>
+    <lastmod>2021-01-26T00:04:11+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaikk.github.io/DataSciencePath/datasciencepath/1/</loc>
     <lastmod>2021-01-12T21:50:52+11:00</lastmod>
   </url>
@@ -10,36 +60,6 @@
   <url>
     <loc>https://jaikk.github.io/DataSciencePath/datasciencepath/</loc>
     <lastmod>2021-01-12T21:50:52+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaikk.github.io/DataSciencePath/</loc>
-    <lastmod>2021-01-12T21:50:52+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaikk.github.io/DataSciencePath/pandas/new/</loc>
-    <lastmod>2021-01-11T18:07:04+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaikk.github.io/DataSciencePath/pandas/</loc>
-    <lastmod>2021-01-11T18:07:04+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaikk.github.io/DataSciencePath/pandas/test2/</loc>
-    <lastmod>2021-01-11T09:15:20+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaikk.github.io/DataSciencePath/pandas/test1/</loc>
-    <lastmod>2021-01-11T09:15:18+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaikk.github.io/DataSciencePath/pandas/test/</loc>
-    <lastmod>2021-01-11T09:01:36+11:00</lastmod>
   </url>
   
   <url>

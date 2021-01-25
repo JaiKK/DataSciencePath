@@ -6,7 +6,74 @@
     <description>Recent content in JotDown - Books on DataSciencePath</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 21:50:52 +1100</lastBuildDate><atom:link href="https://jaikk.github.io/DataSciencePath/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 01:24:23 +1100</lastBuildDate><atom:link href="https://jaikk.github.io/DataSciencePath/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indexing</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/1-indexing/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/1-indexing/</guid>
+      <description>Heading1 Telling something about indexing
+Heading2 Telling something about indexing
+Heading2.1 Telling something about indexing
+Heading2.1.1 Telling something about indexing</description>
+    </item>
+    
+    <item>
+      <title>Slicing</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/2-slicing/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/2-slicing/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
+    <item>
+      <title>Merging</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/3-merging/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/3-merging/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
+    <item>
+      <title>Joining</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/4-joining/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/4-joining/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Plan</title>
+      <link>https://jaikk.github.io/DataSciencePath/machinelearning/plan/</link>
+      <pubDate>Tue, 26 Jan 2021 01:24:23 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/machinelearning/plan/</guid>
+      <description>P Value, T test, Chi Square Test, Anova Test   Mean, median, &amp;amp; mode What Is Balanced And Imbalanced Dataset? What is sample dataset and population dataset What is a significance value or alpha? (p &amp;lt;= 0.05) One sample proportion test and two sample proportion (is it only for catogorical data)     Maths
+ Matrices Quadretic equations    Discriptive and predictive data mining</description>
+    </item>
+    
+    <item>
+      <title>Appending</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/6-appending/</link>
+      <pubDate>Tue, 26 Jan 2021 00:04:27 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/6-appending/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
+    <item>
+      <title>Concatenating</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/5-concatenating/</link>
+      <pubDate>Tue, 26 Jan 2021 00:04:11 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/5-concatenating/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
     <item>
       <title>Chapter-1</title>
       <link>https://jaikk.github.io/DataSciencePath/datasciencepath/1/</link>
@@ -14,42 +81,6 @@
       
       <guid>https://jaikk.github.io/DataSciencePath/datasciencepath/1/</guid>
       <description>This is chapter one in details.</description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/new/</link>
-      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
-      
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/new/</guid>
-      <description>Content/posts/new.md</description>
-    </item>
-    
-    <item>
-      <title>Test2</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/test2/</link>
-      <pubDate>Mon, 11 Jan 2021 09:15:20 +1100</pubDate>
-      
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/test2/</guid>
-      <description>Content/posts/Test2.md</description>
-    </item>
-    
-    <item>
-      <title>Test1</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/test1/</link>
-      <pubDate>Mon, 11 Jan 2021 09:15:18 +1100</pubDate>
-      
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/test1/</guid>
-      <description>Content/posts/Test1.md</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/test/</link>
-      <pubDate>Mon, 11 Jan 2021 09:01:36 +1100</pubDate>
-      
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/test/</guid>
-      <description>Content/posts/Test.md</description>
     </item>
     
   </channel>

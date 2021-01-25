@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on DataSciencePath</title>
+    <link>https://jaikk.github.io/DataSciencePath/machinelearning/</link>
+    <description>Recent content in Machine Learning on DataSciencePath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jan 2021 01:24:23 +1100</lastBuildDate><atom:link href="https://jaikk.github.io/DataSciencePath/machinelearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Plan</title>
+      <link>https://jaikk.github.io/DataSciencePath/machinelearning/plan/</link>
+      <pubDate>Tue, 26 Jan 2021 01:24:23 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/machinelearning/plan/</guid>
+      <description>P Value, T test, Chi Square Test, Anova Test   Mean, median, &amp;amp; mode What Is Balanced And Imbalanced Dataset? What is sample dataset and population dataset What is a significance value or alpha? (p &amp;lt;= 0.05) One sample proportion test and two sample proportion (is it only for catogorical data)     Maths
+ Matrices Quadretic equations    Discriptive and predictive data mining</description>
+    </item>
+    
+  </channel>
+</rss>

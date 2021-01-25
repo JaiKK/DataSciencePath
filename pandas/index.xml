@@ -6,40 +6,61 @@
     <description>Recent content in Pandas on DataSciencePath</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 18:07:04 +1100</lastBuildDate><atom:link href="https://jaikk.github.io/DataSciencePath/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:04:27 +1100</lastBuildDate><atom:link href="https://jaikk.github.io/DataSciencePath/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/new/</link>
+      <title>Indexing</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/1-indexing/</link>
       <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
       
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/new/</guid>
-      <description>Content/posts/new.md</description>
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/1-indexing/</guid>
+      <description>Heading1 Telling something about indexing
+Heading2 Telling something about indexing
+Heading2.1 Telling something about indexing
+Heading2.1.1 Telling something about indexing</description>
     </item>
     
     <item>
-      <title>Test2</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/test2/</link>
-      <pubDate>Mon, 11 Jan 2021 09:15:20 +1100</pubDate>
+      <title>Slicing</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/2-slicing/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
       
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/test2/</guid>
-      <description>Content/posts/Test2.md</description>
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/2-slicing/</guid>
+      <description>Content/posts/Test.md</description>
     </item>
     
     <item>
-      <title>Test1</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/test1/</link>
-      <pubDate>Mon, 11 Jan 2021 09:15:18 +1100</pubDate>
+      <title>Merging</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/3-merging/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
       
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/test1/</guid>
-      <description>Content/posts/Test1.md</description>
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/3-merging/</guid>
+      <description>Content/posts/Test.md</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://jaikk.github.io/DataSciencePath/pandas/test/</link>
-      <pubDate>Mon, 11 Jan 2021 09:01:36 +1100</pubDate>
+      <title>Joining</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/4-joining/</link>
+      <pubDate>Mon, 11 Jan 2021 18:07:04 +1100</pubDate>
       
-      <guid>https://jaikk.github.io/DataSciencePath/pandas/test/</guid>
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/4-joining/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
+    <item>
+      <title>Appending</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/6-appending/</link>
+      <pubDate>Tue, 26 Jan 2021 00:04:27 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/6-appending/</guid>
+      <description>Content/posts/Test.md</description>
+    </item>
+    
+    <item>
+      <title>Concatenating</title>
+      <link>https://jaikk.github.io/DataSciencePath/pandas/5-concatenating/</link>
+      <pubDate>Tue, 26 Jan 2021 00:04:11 +1100</pubDate>
+      
+      <guid>https://jaikk.github.io/DataSciencePath/pandas/5-concatenating/</guid>
       <description>Content/posts/Test.md</description>
     </item>
     
