@@ -8,7 +8,7 @@
 
 
                 <div class="list-group">
-                    {{ range .Pages }}
+                    {{ range .Pages.ByWeight }}
                     <a class="list-group-item list-group-item-action" href="{{.Permalink}}">{{.Params.linkname}}</a>
                     {{ end }}
                 </div>
